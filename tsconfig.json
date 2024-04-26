@@ -1,8 +1,6 @@
 {
-    "compilerOptions": {
-      "target": "es2017",
-      "module": "commonjs"
-    },
-    "include": ["**/*.ts"]
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "sourceMap": true
   }
-  
