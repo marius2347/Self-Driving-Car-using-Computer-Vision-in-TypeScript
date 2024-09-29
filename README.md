@@ -1,4 +1,4 @@
-<h1>Self Driving Car - TypeScript Project</h1>
+<h1>Self Driving Car using Computer-Vision in TypeScript</h1>
 <br>
 <h3>Features</h3>
 <ul>
